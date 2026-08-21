@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Consulta de Multas">
+  <rect width="512" height="512" rx="96" fill="#FFFFFF"/>
+  <!-- car (side view) -->
+  <g fill="#0F766E">
+    <!-- body + cabin -->
+    <path d="M84 322
+             q0-14 14-16
+             l30-4
+             l40-52
+             q10-13 27-13
+             h96
+             q18 0 30 14
+             l34 40
+             l38 8
+             q23 5 23 28
+             v20
+             q0 12-12 12
+             h-16
+             a44 44 0 0 0-88 0
+             h-96
+             a44 44 0 0 0-88 0
+             h-8
+             q-14 0-14-14
+             z"/>
+    <!-- windows -->
+    <path d="M176 246 q6-8 16-8 h44 v40 h-92 z" fill="#FFFFFF"/>
+    <path d="M256 238 h40 q10 0 17 8 l26 32 h-83 z" fill="#FFFFFF"/>
+  </g>
+  <!-- wheels -->
+  <circle cx="176" cy="356" r="40" fill="#0F766E"/>
+  <circle cx="176" cy="356" r="18" fill="#FFFFFF"/>
+  <circle cx="352" cy="356" r="40" fill="#0F766E"/>
+  <circle cx="352" cy="356" r="18" fill="#FFFFFF"/>
+  <!-- alert badge -->
+  <circle cx="392" cy="150" r="62" fill="#E11D48"/>
+  <rect x="384" y="112" width="16" height="52" rx="8" fill="#FFFFFF"/>
+  <circle cx="392" cy="182" r="9" fill="#FFFFFF"/>
+</svg>

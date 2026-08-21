@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/multas-mcp",
+  "title": "Consulta de Multas",
+  "description": "Look up PUBLIC vehicle and traffic data from official sources, the same information a citizen access",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/multas-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_multas"
+    }
+  ]
+}
